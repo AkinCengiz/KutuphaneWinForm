@@ -11,6 +11,7 @@ public class YazarDto
     public int Id { get; set; }
     public string Adi { get; set; }
     public string Soyadi { get; set; }
+    public string Deneme { get; set; }
 
     public string FullName
     {
